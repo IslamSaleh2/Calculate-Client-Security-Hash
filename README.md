@@ -1,0 +1,1 @@
+Open ACME System 1, log in, and access the Dashboard to view Work Items; for each WI5 activity, retrieve client details, generate SHA1 hash, and update status to "Completed" with the obtained Security Hash.
